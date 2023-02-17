@@ -4,6 +4,7 @@ body {
 
 header {
   background: #4d97ff;
+  display: flex;
 }
 header a {
   color: #fff;
@@ -18,5 +19,5 @@ header div.user div.message p {
   display: none;
 }
 header div.user div.message p:hover {
-  display: block;
+  display: flex;
 }
