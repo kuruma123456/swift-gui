@@ -13,11 +13,11 @@ header a {
 header li {
   list-style: none;
 }
-header div.user div.message p {
+header div.user div.message {
   color: #fff;
   background: ffa657;
   display: none;
 }
-header div.user div.message p:hover {
+header div.user div.message:hover {
   display: flex;
 }
