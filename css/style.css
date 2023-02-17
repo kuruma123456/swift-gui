@@ -8,11 +8,11 @@ header {
 header li {
   list-style: none;
 }
-header div.user div.message {
+header div.user div.message p {
   color: #fff;
   background: ffa657;
   display: none;
 }
-header div.user div.message:hover {
+header div.user div.message p:hover {
   display: block;
 }
