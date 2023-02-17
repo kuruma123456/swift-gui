@@ -5,6 +5,10 @@ body {
 header {
   background: #4d97ff;
 }
+header a {
+  color: #fff;
+  text-decoration: none;
+}
 header li {
   list-style: none;
 }
