@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+}
+
+header {
+  background: #4d97ff;
+}
+header li {
+  list-style: none;
+}
+header div.user div.message {
+  background: var(--color-codemirror-syntax-variable);
+  display: none;
+}
