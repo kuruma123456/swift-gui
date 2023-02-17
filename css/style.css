@@ -9,6 +9,10 @@ header li {
   list-style: none;
 }
 header div.user div.message {
-  background: var(--color-codemirror-syntax-variable);
+  color: #fff;
+  background: ffa657;
   display: none;
+}
+header div.user div.message:hover {
+  display: block;
 }
