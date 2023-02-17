@@ -14,10 +14,10 @@ header li {
   list-style: none;
 }
 header div.user div.message {
-  color: #fff;
-  background: ffa657;
   display: none;
 }
 header div.user div.message:hover {
+  color: #fff;
+  background: ffa657;
   display: flex;
 }
